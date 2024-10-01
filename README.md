@@ -21,7 +21,7 @@
 - ![HTML](https://img.icons8.com/color/24/000000/html-5.png) HTML
 - ![CSS](https://img.icons8.com/color/24/000000/css3.png) CSS
 - ![Bootstrap](https://img.icons8.com/color/24/000000/bootstrap.png) Bootstrap
-- ![FXML](https://img.icons8.com/color/24/000000/javafx.png) FXML (JavaFX)
+- FXML (JavaFX)
 
 ### Back-End Development
 - ![Java](https://img.icons8.com/color/24/000000/java-coffee-cup-logo--v1.png) Java (![Spring](https://img.icons8.com/color/24/000000/spring-logo.png), ![Spring Boot](https://img.icons8.com/color/24/000000/spring-boot.png))
@@ -30,7 +30,6 @@
 ### Tools & Frameworks
 - ![Android Studio](https://img.icons8.com/color/24/000000/android-studio.png) Android Studio
 - ![Spring Boot](https://img.icons8.com/color/24/000000/spring-boot.png) Spring Boot
-- ![JavaFX](https://img.icons8.com/color/24/000000/javafx.png) JavaFX
 
 ### Design Tools
 - ![Figma](https://img.icons8.com/color/24/000000/figma.png) Figma
