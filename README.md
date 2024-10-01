@@ -52,7 +52,7 @@
 
 ## 🎯 Learning Path
 - **2023**: Began programming journey; learned ![Java](https://img.icons8.com/color/24/000000/java-coffee-cup-logo--v1.png) Java, ![C#](https://img.icons8.com/color/24/000000/c-sharp-logo.png) C#, and ![MySQL](https://img.icons8.com/color/24/000000/mysql-logo.png) MySQL.
-- **2024**: Expanded into full-stack development ((![Spring](https://img.icons8.com/color/24/000000/spring-logo.png) Spring, Spring Boot, Microservices, ![PHP](https://img.icons8.com/color/24/000000/php.png), ![HTML](https://img.icons8.com/color/24/000000/html-5.png)/![CSS](https://img.icons8.com/color/24/000000/css3.png)).
+- **2024**: Expanded into full-stack development (![Spring](https://img.icons8.com/color/24/000000/spring-logo.png) Spring, Spring Boot, Microservices, ![PHP](https://img.icons8.com/color/24/000000/php.png), ![HTML](https://img.icons8.com/color/24/000000/html-5.png)/![CSS](https://img.icons8.com/color/24/000000/css3.png)).
 - **Late 2024**: Starting specialization in **Artificial Intelligence and Big Data**.
 
 ## 🌱 What I’m currently learning:
