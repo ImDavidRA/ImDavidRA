@@ -7,11 +7,6 @@
 
 👨‍💻 I am passionate about learning new technologies. Since 2023, I've built multiple mobile apps using Java, Kotlin, and Firebase, and I’m always looking to expand my knowledge. In 2024, I’ve focused on **Spring**, **Spring Boot**, **Microservices**, **Mobile Development**, and **Full-Stack Web Technologies**.
 
-## 🎯 Learning Path
-- **2023**: Began programming journey; learned Java, C#, and MySQL.
-- **2024**: Expanded into full-stack development (Spring, Spring Boot, Microservices, PHP, HTML/CSS).
-- **Late 2024**: Starting specialization in **Artificial Intelligence and Big Data**.
-
 ## 🛠️ Skills
 
 ### Languages
@@ -64,6 +59,10 @@
 - **Technologies**: JavaScript, HTML, CSS
 - **Description**: A functional calculator app built with responsive design, using JavaScript and modern web technologies.
 
+## 🎯 Learning Path
+- **2023**: Began programming journey; learned Java, C#, and MySQL.
+- **2024**: Expanded into full-stack development (Spring, Spring Boot, Microservices, PHP, HTML/CSS).
+- **Late 2024**: Starting specialization in **Artificial Intelligence and Big Data**.
 
 ## 🌱 What I’m currently learning:
 - **Spring Boot** for building scalable microservices.
