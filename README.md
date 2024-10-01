@@ -14,8 +14,8 @@
 - ![Python](https://img.icons8.com/color/24/000000/python.png) Python
 - ![PHP](https://img.icons8.com/color/24/000000/php.png) PHP
 - ![Kotlin](https://img.icons8.com/color/24/000000/kotlin.png) Kotlin
-- ![C#](https://img.icons8.com/color/24/000000/c-sharp-logo.png) C# (Currently Learning)
 - ![MySQL](https://img.icons8.com/color/24/000000/mysql-logo.png) MySQL
+- ![C#](https://img.icons8.com/color/24/000000/c-sharp-logo.png) C# (Currently Learning)
 
 ### Front-End Development
 - ![HTML](https://img.icons8.com/color/24/000000/html-5.png) HTML
