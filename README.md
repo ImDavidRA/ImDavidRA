@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am **David Romero**, a **Full Stack Developer** on the making, specializing in **Spring Boot Apps**. I am currently pursuing my **Advanced Vocational Training Course in Web App Development**, and I will be starting a **specialization in Artificial Intelligence and Big Data** in late 2024.
+🎓 I am **David Romero**, a **Full Stack Developer** on the making, specializing in **Spring Boot Apps**. I am currently pursuing my **Advanced Vocational Training Course in Web App Development**, and I will be starting a **Specialization Course in Artificial Intelligence and Big Data** in late 2024.
 
 👨‍💻 I am passionate about learning new technologies. Since 2023, I've built multiple mobile apps using ![Java](https://img.icons8.com/color/24/000000/java-coffee-cup-logo--v1.png) **Java**, ![Kotlin](https://img.icons8.com/color/24/000000/kotlin.png) **Kotlin**, and ![Firebase](https://img.icons8.com/color/24/000000/firebase.png) **Firebase**, and I’m always looking to expand my knowledge. In 2024, I’ve focused on **Spring**, **Spring Boot**, **Microservices**, **Mobile Development**, and **Full-Stack Web Technologies**.
 
