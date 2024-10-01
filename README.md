@@ -20,7 +20,6 @@
 ### Front-End Development
 - ![HTML](https://img.icons8.com/color/24/000000/html-5.png) HTML
 - ![CSS](https://img.icons8.com/color/24/000000/css3.png) CSS
-- ![JavaFX](https://img.icons8.com/color/24/000000/javafx.png) JavaFX
 - ![Bootstrap](https://img.icons8.com/color/24/000000/bootstrap.png) Bootstrap
 - ![FXML](https://img.icons8.com/color/24/000000/javafx.png) FXML (JavaFX)
 
