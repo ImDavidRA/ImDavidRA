@@ -24,12 +24,12 @@
 - FXML (JavaFX)
 
 ### Back-End Development
-- ![Java](https://img.icons8.com/color/24/000000/java-coffee-cup-logo--v1.png) Java (![Spring](https://img.icons8.com/color/24/000000/spring-logo.png), ![Spring Boot](https://img.icons8.com/color/24/000000/spring-boot.png))
+- ![Java](https://img.icons8.com/color/24/000000/java-coffee-cup-logo--v1.png) Java (![Spring](https://img.icons8.com/color/24/000000/spring-logo.png))
 - ![Firebase](https://img.icons8.com/color/24/000000/firebase.png) Firebase (BaaS)
 
 ### Tools & Frameworks
 - ![Android Studio](https://img.icons8.com/color/24/000000/android-studio.png) Android Studio
-- ![Spring Boot](https://img.icons8.com/color/24/000000/spring-boot.png) Spring Boot
+- (![Spring](https://img.icons8.com/color/24/000000/spring-logo.png) Spring
 
 ### Design Tools
 - ![Figma](https://img.icons8.com/color/24/000000/figma.png) Figma
