@@ -34,7 +34,7 @@
 
 ### Testing & Automation
 - ![Pytest](https://img.icons8.com/color/24/000000/python.png) Pytest
-- ![JUnit](https://img.icons8.com/color/24/000000/junit5.png) JUnit
+- JUnit
 
 ## 📱 Projects
 
