@@ -5,14 +5,6 @@
 
 👨‍💻 I am passionate about learning new technologies. In 2024, I learned **Spring**, **Spring Boot**, **Microservices**, and **Mobile Development**.
 
-🎸 Outside of tech, I enjoy developing new skills. My hobbies include playing the **guitar**, **breakdancing** (hip-hop), **sketching**, and **touch typing**. I also have some unique hobbies, like writing with my left hand.
-
-📚 I love reading books on **personal development** and **financial literacy**. Some of my favorites include:
-- **The Compound Effect** by Darren Hardy (Personal Development)
-- **Rich Dad Poor Dad** by Robert Kiyosaki (Financial Literacy)
-
-✈️ I also love traveling. I’ve been on solo trips to **Bhutan** in 2018 and to **Hyderabad, India** in 2021.
-
 ## 🛠️ Skills
 
 ### Languages
