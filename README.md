@@ -23,10 +23,6 @@
 - ![Bootstrap](https://img.icons8.com/color/24/000000/bootstrap.png) Bootstrap
 - FXML (JavaFX)
 
-### Back-End Development
-- ![Java](https://img.icons8.com/color/24/000000/java-coffee-cup-logo--v1.png) Java (![Spring](https://img.icons8.com/color/24/000000/spring-logo.png))
-- ![Firebase](https://img.icons8.com/color/24/000000/firebase.png) Firebase (BaaS)
-
 ### Tools & Frameworks
 - ![Android Studio](https://img.icons8.com/color/24/000000/android-studio.png) Android Studio
 - (![Spring](https://img.icons8.com/color/24/000000/spring-logo.png) Spring
