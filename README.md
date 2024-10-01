@@ -25,7 +25,8 @@
 
 ### Tools & Frameworks
 - ![Android Studio](https://img.icons8.com/color/24/000000/android-studio.png) Android Studio
-- (![Spring](https://img.icons8.com/color/24/000000/spring-logo.png) Spring
+- ![Firebase](https://img.icons8.com/color/24/000000/firebase.png) Firebase (BaaS)
+- ![Spring](https://img.icons8.com/color/24/000000/spring-logo.png) Spring
 
 ### Design Tools
 - ![Figma](https://img.icons8.com/color/24/000000/figma.png) Figma
